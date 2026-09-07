@@ -5,13 +5,13 @@ about:
   head: 2afe64c
   archived: false
   latestVersion: "v9.0.0"
-  collectedAt: 2026-09-07T05:04:59Z
+  collectedAt: 2026-09-07T19:26:37Z
 timeline:
   created: 2015-06-20
   lastCommit: 2025-11-09
   lastRelease: 2025-11-09
 popularity:
-  star: 7002
+  star: 7003
   watcher: 50
   fork: 218
   release: 8
@@ -79,7 +79,7 @@ total:
   commit: 103
 ---
 path: /home/runner/.x-repo/github.com/sindresorhus/fkill-cli
-collectedAt: 2026-09-07T05:05:01Z
+collectedAt: 2026-09-07T19:26:37Z
 loc:
   JavaScript:
     code: 390
@@ -191,7 +191,7 @@ checks:
       - 'Warn: 0 commits out of 7 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:05:02+00:00
+  collectedAt: 2026-09-07T19:26:38+00:00
   platform:
     darwin/arm64:
       name:  null
