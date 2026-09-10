@@ -7,7 +7,7 @@ about:
   latestVersion: "v9.0.0"
   latestRelease: "v9.0.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:46:00Z
+  collectedAt: 2026-09-10T22:59:08Z
 timeline:
   created: 2015-06-20
   lastCommit: 2025-11-09
@@ -83,7 +83,7 @@ total:
   commit: 103
 ---
 path: /home/runner/.x-repo/github.com/sindresorhus/fkill-cli
-collectedAt: 2026-09-10T20:46:01Z
+collectedAt: 2026-09-10T22:59:10Z
 loc:
   JavaScript:
     code: 390
