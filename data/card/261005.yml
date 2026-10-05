@@ -194,4 +194,3 @@ checks:
     details:
       - 'Warn: 0 commits out of 7 are checked with a SAST tool'
 ---
-{"id":260910449,"author":{"login":"sindresorhus","id":170270,"node_id":"MDQ6VXNlcjE3MDI3MA==","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOAkCXKc4PjS1x","tag_name":"v9.0.0","target_commitish":"main","name":"","draft":false,"immutable":false,"prerelease":false,"created_at":"2025-11-09T09:57:24Z","updated_at":"2025-11-09T09:58:46Z","published_at":"2025-11-09T09:58:46Z","assets":[],"body":"### Breaking\r\n\r\n- Require Node.js 20  eecb553\r\n\r\n### Improvements\r\n\r\n- Add smart-case support  72e590d\r\n\r\n---\r\n\r\nhttps://github.com/sindresorhus/fkill-cli/compare/v8.0.0...v9.0.0"}
