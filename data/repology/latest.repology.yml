@@ -1,0 +1,13 @@
+- repo: epel_9
+  srcname: fkill-cli
+  binnames:
+    - fkill-cli
+  visiblename: fkill-cli
+  version: 7.0.0
+  origversion: 7.0.0-4.el9
+  status: unique
+  summary: Fabulously kill processes
+  licenses:
+    - MIT and 0BSD and ASL 2.0 and BSD and CC0 and CC-BY and ISC and (MIT or CC0)
+  categories:
+    - Unspecified
